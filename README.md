@@ -9,4 +9,4 @@ Encapsulation – to protect and manage account data securely
 
 Polymorphism – to implement flexible and reusable methods for different account types
 
-This project helped reinforce my understanding of OOP by applying the concepts in a practical, interactive application
+This project helped reinforce my understanding of OOP by applying the concepts in a practical, interactive application.
